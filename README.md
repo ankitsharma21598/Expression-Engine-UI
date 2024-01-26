@@ -18,7 +18,7 @@ Expression Engine UI is a web-based user interface that allows users to create a
 
 ## Features
 
-- Create expressions with rule types: Age, Credit Score, Account Balance.
+- Create expressions with rule types: Age, Credit Score, and Account Balance.
 - Specify operators: >, <, >=, <=, =.
 - Set values and scores for each expression.
 - Add and delete expressions.
@@ -31,4 +31,12 @@ Expression Engine UI is a web-based user interface that allows users to create a
    ```bash
    git clone https://github.com/your-username/expression-engine-ui.git
 
-## 
+### **Change into the project directory:**
+
+   ```bash
+   git clone https://github.com/your-username/expression-engine-ui.git
+
+### **Change into the project directory:**
+
+   ```bash
+   git clone https://github.com/your-username/expression-engine-ui.git
