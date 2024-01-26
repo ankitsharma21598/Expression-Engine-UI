@@ -30,13 +30,16 @@ Expression Engine UI is a web-based user interface that allows users to create a
 
    ```bash
    git clone https://github.com/your-username/expression-engine-ui.git
+   ```
 
-### **Change into the project directory:**
-
-   ```bash
-   git clone https://github.com/your-username/expression-engine-ui.git
-
-### **Change into the project directory:**
+    1. **Change into the project directory:**
 
    ```bash
    git clone https://github.com/your-username/expression-engine-ui.git
+   ```
+
+    2. **Change into the project directory:**
+
+   ```bash
+   git clone https://github.com/your-username/expression-engine-ui.git
+   ```
