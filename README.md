@@ -1,5 +1,6 @@
 # Expression Engine UI
 
+### Live Link: 
 
 ## Table of Contents
 
@@ -32,14 +33,36 @@ Expression Engine UI is a web-based user interface that allows users to create a
    git clone https://github.com/your-username/expression-engine-ui.git
    ```
 
-    1. **Change into the project directory:**
+2. **Change into the project directory:**
 
    ```bash
-   git clone https://github.com/your-username/expression-engine-ui.git
+   cd expression-engine-ui
    ```
 
-    2. **Change into the project directory:**
+3. **Install dependencies:**
 
    ```bash
-   git clone https://github.com/your-username/expression-engine-ui.git
+   npm install
    ```
+## Usage
+
+1. **Start the development server:**
+
+   ```bash
+   npm start
+   ```
+
+2. **Open your browser and navigate to http://localhost:3000.**
+
+## Screenshots
+
+## Technologies Used
+- [React](https://react.dev/)
+- [Bootstrap](https://getbootstrap.com/)
+
+## Contributing
+Contributions are welcome! Please follow the contribution guidelines when contributing to this project.
+
+## License
+This project is licensed under the MIT License.
+
