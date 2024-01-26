@@ -30,13 +30,13 @@ Expression Engine UI is a web-based user interface that allows users to create a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/expression-engine-ui.git
+   git clone https://github.com/ankitsharma21598/crego_task.git
    ```
 
 2. **Change into the project directory:**
 
    ```bash
-   cd expression-engine-ui
+   cd crego_task
    ```
 
 3. **Install dependencies:**
